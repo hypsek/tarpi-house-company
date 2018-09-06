@@ -1,0 +1,225 @@
+::selection {
+    background: #86214d;
+    color: #fff;
+}
+::-moz-selection {
+    background: #86214d;
+    /* Firefox */
+    
+    color: #fff;
+}
+.tags a:hover {
+    color: #86214d;
+}
+li.current_page_item a {
+    color: #86214d !important;
+}
+.ds_navigation_menu ul.menu > li > a:hover {
+    text-decoration: none;
+    color: #86214d;
+}
+.appointment_btn a {
+    background-color: #86214d;
+}
+.appointment_btn a:hover {
+    color: #86214d;
+}
+button.navbar_toggle i.fa {
+    color: #86214d;
+}
+h2.block_title:before {
+    background: #86214d;
+}
+.price_right {
+    color: #86214d;
+}
+.panel_body a {
+    color: #86214d;
+}
+.panel_default h4.panel-title:hover {
+    color: #86214d;
+}
+.infotextwrap {
+    background: #86214d;
+}
+.testimonial_author {
+    color: #86214d;
+}
+.titleborderOut .titleborder:after,
+.slides_times li.ds_wtime {
+    background: #86214d;
+}
+.ds_description a {
+    color: #86214d;
+}
+.ds_social a i.fa:hover {
+    background: #86214d;
+}
+#copyright a {
+    color: #86214d;
+}
+.footer_button a {
+    background: #86214d;
+}
+.opening_times li .time {
+    color: #86214d;
+}
+.bottom_tab h3:hover {
+    background: #86214d;
+}
+.slide_anchor {
+    background-color: #86214d;
+}
+.playfontbold {
+    Color: #86214d !important;
+    border-bottom: 3px solid #86214d !important;
+    border-top: 3px solid #86214d !important;
+}
+.pagecontent .ds_pagecontentContent_title h1:after {
+    background: #86214d;
+}
+.single-portfolio-skils ul li i {
+    color: #86214d;
+}
+.project_section .link a {
+    background: #86214d;
+}
+.ds_pagecontentContent_breadcrumb span {
+    color: #86214d;
+}
+.ds_entry h2.title:before {
+    background: #86214d;
+}
+.ds_blogpostcategory .blogmore,
+.blogmore {
+    background: #86214d;
+}
+.ds_widgett .wttitle h4 a:hover {
+    color: #86214d;
+}
+.widget a:hover {
+    color: #86214d !important;
+}
+.ds_tagcloud a {
+    background: #86214d;
+}
+.sidebar_toogle {
+    background-color: #86214d;
+    box-shadow: 1px 0px 7px 1px #86214d;
+}
+ul.blog_ul li:hover {
+    background-color: #86214d;
+}
+.blog_ul li.active {
+    background-color: #86214d;
+}
+.post_meta_title:hover {
+    color: #86214d;
+}
+a.read_more {
+    background-color: #86214d;
+}
+.paginations span,
+.paginations a {
+    color: #86214d;
+}
+.paginations .current {
+    background: #86214d;
+}
+.pmc_aoute_of:hover {
+    border-left: 4px solid #86214d;
+}
+.pmc_blocks:hover .pmc_icon_border {
+    background: #86214d;
+}
+.pmc_icon i {
+    background: #86214d;
+    border: 4px solid #6b1239;
+}
+.conclusion h2:before {
+    background: #86214d;
+}
+.ds_related .image:hover {
+    background-color: #86214d;
+}
+#submit_frm:hover {
+    background: #86214d;
+}
+.panel_default_toggle .panel-heading:hover .panel-title:before {
+    background: #86214d;
+}
+.panel_default_toggle .panel-heading:hover .panel-title .collapsed:before {
+    background: #86214d;
+}
+.counter_icon i.fa {
+    font-size: 4em;
+    color: #86214d;
+}
+.ds_counter:hover .pmc_counter_border {
+    width: 100px;
+    background: #86214d;
+}
+.btn_color1 {
+    background-color: #86214d;
+    border-color: #86214d;
+}
+.icon_bg {
+    background-color: #86214d;
+    border-color: #86214d;
+}
+.table_darkgreen {
+    background-color: #86214d;
+}
+.submit_frm {
+    background-color: #86214d !important;
+}
+.submit_btn {
+    background-color: #86214d !important;
+}
+.sub-menu {
+    background: rgba(134, 33, 77, 0.95);
+}
+.goto_real {
+    color: #86214d;
+}
+.contact li i.fa {
+    color: #86214d;
+    margin-right: 10px;
+}
+.info a {
+    background-color: #86214d;
+}
+.ui-tabs-vertical .ui-tabs-nav li:hover {
+    background-color: #86214d;
+}
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    background-color: #86214d;
+}
+.tagcloud a:hover {
+    color: #fff !important;
+}
+.slider_main .bx-controls-direction a {
+    background-color: #86214d;
+}   
+#style-switcher .bottom a.settings i {
+    color: #86214d;
+}
+.ih-item.circle.effect1 .spinner {
+    border-right-color: #86214d;
+    border-bottom-color: #86214d;
+}
+.services-hide .Doller_c {
+    color: #86214d;
+}
+.turquoise_color {
+   color: #86214d !important;
+}
+.turquoise_color_style {
+	border-bottom:3px solid #86214d !important;
+	border-top:3px solid #86214d !important;
+}
+.turquoise_color_bg {
+	background-color:#86214d !important;
+}
